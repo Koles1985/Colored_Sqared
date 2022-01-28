@@ -21,7 +21,7 @@ public class Setting {
     //language
     public static String eng_Or_Rus = Setting.languageEng ? "Language:" : "Язык: ";
     //difficulty
-    public static String difEng_Or_Rus = Setting.languageEng ? "Difficulty: " : "Сложность: ";
+    public static String difEng_Or_Rus = Setting.languageEng ? "Difficulty:" : "Сложность: ";
     //button eng_rus
     public static String text_for_button_eng_or_rus = Setting.languageEng ? "English" : "Русский";
     //style for all labels
