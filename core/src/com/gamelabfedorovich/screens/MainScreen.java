@@ -48,7 +48,6 @@ public class MainScreen implements Screen {
         label.setPosition(Coords.centerX - label.getWidth() / 2,
                 Coords.cellHeight - label.getHeight() - 50);
 
-        System.out.println(play.getWidth());
 
         stage = new Stage(new FillViewport(Coords.cellWidth, Coords.cellRatioY));
         stage.addActor(play);

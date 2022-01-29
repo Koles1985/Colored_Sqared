@@ -10,7 +10,7 @@ public class Launcher extends Game {
 	public void create() {
 		Assets.load();
 		Coords.getCoords();
-		Setting.load();
+		//Setting.load();
 		setScreen(new MainScreen(this));
 	}
 

@@ -167,6 +167,10 @@ com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
 		font: font
 		fontColor: black
 	}
+	settingRus:{
+		font: button
+		fontColor: white
+	}
 	setting: {
 		font: button
 		fontColor: white
