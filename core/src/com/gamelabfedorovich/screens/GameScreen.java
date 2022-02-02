@@ -7,6 +7,7 @@ import com.badlogic.gdx.graphics.GL20;
 
 public class GameScreen implements Screen {
     private Game game;
+    private
     public GameScreen(Game game){
         this.game = game;
     }
